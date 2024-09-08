@@ -1,0 +1,22 @@
+.home-container{
+  
+    width: 95%;
+    margin:0 auto;
+}
+
+
+
+
+.food-card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+.main-title{
+    text-align: center;
+padding-top: 10PX;
+}
+.tagline-title{
+    text-align: center;
+font-size: 20px;
+}
